@@ -1,4 +1,4 @@
-vaulesFilePath: ./values.example.yml
+valuesFilePath: ./values.example.yml
 pipelines:
   - name: sample_pipeline
     steps:
